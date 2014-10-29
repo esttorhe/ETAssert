@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "ETAssert"
-  s.version      = "1.0.0"
+  s.version      = "1.0.1"
   s.summary      = "Companion assert helper for the KZAssert's assertions suite."
 
   s.description  = <<-DESC
