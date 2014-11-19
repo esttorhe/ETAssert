@@ -14,7 +14,7 @@ Unfortunately it provides a preset of specific cases but no "run block" scenario
   s.homepage     = "https://github.com/esttorhe/ETAssert.git"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "Esteban Torres" => "me@estebantorr.es" }
-  s.social_media_url   = "http://twitter.com/Creegan119"
+  s.social_media_url   = "http://twitter.com/esttorhe"
   s.source       = { :git => "https://github.com/esttorhe/ETAssert.git", :tag => s.version }
   s.source_files  = "Classes", "Classes/**/*.{h,m}"
   s.dependency "KZAsserts", "~> 1.0"
