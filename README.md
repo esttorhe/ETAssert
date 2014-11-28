@@ -7,6 +7,5 @@ Unfortunately it provides a preset of specific cases but no "run block" scenario
 
 `ETAssert` will execute the provided `^(NSError *){ /*code here*/ }` block in case you need to return something other than `NO` or `nil`.
 
-================
 ##Contact
 [![Twitter: @esttorhe](http://img.shields.io/badge/Twitter%20-%40esttorhe-blue.svg?style=flat)](https://twitter.com/esttorhe)
